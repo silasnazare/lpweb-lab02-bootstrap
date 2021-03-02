@@ -1,0 +1,21 @@
+:root {
+    --primaryFont: 'Playfair Display', serif;
+    --secondaryFont: 'Raleway', sans-serif;
+    --primary-color: #037bc0;
+    --secondary-color: #8cbc00;
+}
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bg-primary {
+    background-color: #037bc0!important;
+}
+.bg-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.main-image {
+    background-image: url(../img/main.jpg);
+    height: 35rem;
+}
